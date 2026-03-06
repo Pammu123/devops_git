@@ -1,0 +1,9 @@
+{
+	"name": "restapimunni",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6224ac93-dcf8-4aa4-8456-babbb1ff32b3",
+		"tenantId": "0861ada9-0bd3-490b-8a5d-9d2aec9649e3"
+	}
+}
